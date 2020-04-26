@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display&display=swap&subset=cyrillic");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu:300&display=swap&subset=cyrillic");
+
+body {
+  margin: 0 auto;
+  margin-left: 89px;
+  margin-top: 77px;
+  height: 1121px;
+}
+
+nav {
+  margin: 0 auto;
+  margin-left: 0px;
+  margin-bottom: 50px;
+  margin-left: 181px;
+  text-align: center;
+  width: 800px;
+  height: 21px;
+}
+
+ul {
+  display: inline-block;
+  text-align: center;
+  margin: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 21px;
+}
+
+li {
+  display: inline-block;
+  text-align: start;
+  width: 180px;
+  height: 21px;
+}
+
+a {
+  font-size: 19px;
+  text-decoration: none;
+  font-family: "Playfair Display";
+  color: #666666;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #03a9f4;
+}
+
+section {
+  margin-top: 31px;
+  margin-left: 61px;
+  display: inline-block;
+  width: 422px;
+  height: 500px;
+  margin-bottom: 0px;
+}
+
+img {
+  display: inline-block;
+  margin-top: auto;
+}
+
+div {
+  margin-top: 33px;
+  font-size: 14px;
+  display: inline-block;
+  text-align: left;
+  width: 400px;
+  color: #666666;
+}
+
+span {
+  font-family: "Ubuntu";
+  display: inline-block;
+  color: #bdb7aa;
+}
+
+h2 {
+  font-family: "Playfair Display";
+  margin-top: 35px;
+  font-size: 22px;
+  display: inline-block;
+  width: 300px;
+  text-align: left;
+  color: #666666;
+}
+
+p {
+  width: 421px;
+  height: 100px;
+  font-size: 14px;
+  line-height: 32px;
+  display: inline-block;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 31px;
+  margin-bottom: 0px;
+  color: #666666;
+}
+
+input {
+  display: inline-block;
+  font-family: "Playfair Display";
+  font-size: 25px;
+  margin-top: 50px;
+  margin-left: 430px;
+  width: 164px;
+  height: 60px;
+}
